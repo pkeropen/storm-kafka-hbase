@@ -1,4 +1,4 @@
-#kafka & storm & hbase & docker(Wordcount DEMO）
+# kafka & storm & hbase & docker(Wordcount DEMO）
 
 -----
 
@@ -89,3 +89,6 @@ hello world
 
 value要是 hadoop的namenode地址,不然启动不了
 
+#### 四、参考文章
+    
+    - [kafka+storm+hbase整合试验](https://blog.csdn.net/m0_37739193/article/details/72540800)
