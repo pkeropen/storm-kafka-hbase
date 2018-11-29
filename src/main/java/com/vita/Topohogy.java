@@ -24,7 +24,7 @@ public class Topohogy {
 
     public static void main(String[] args) throws AlreadyAliveException, InvalidTopologyException, InterruptedException, AuthorizationException {
 
-        String topic = "hehe";
+        String topic = "test";
         String zkRoot = "";
         String id = "old";
         BrokerHosts brokerHosts = new ZkHosts("zk:2181");
